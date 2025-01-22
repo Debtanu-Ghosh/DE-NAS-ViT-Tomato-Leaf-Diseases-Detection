@@ -36,5 +36,5 @@ This repository contains the implementation of a **Differential Evolution (DE)**
 
       DE-NAS-ViT-Tomato-Leaf-Diseases-Detection/
             ├── tomato/New Plant Diseases Dataset(Augmented)/                     # Dataset folder
-            ├── models.ipynb/                                                     # Main code
+            ├── models.ipynb                                                     # Main code
             ├── README.md
