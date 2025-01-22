@@ -40,7 +40,7 @@ This repository contains the implementation of a **Differential Evolution (DE)**
 | num\_layers     | [4, 16]                               |
 | num\_head       | \{2, 4, 8, 16\}                       |
 | DR (Dropout Rate)| [0.1, 0.5]                            |
-| acf (Activation)| \{\texttt{relu}, \texttt{gelu}\}      |
+| acf (Activation)| \{relu, gelu\}      |
 | d\_ff (Feed Forward Dim) | \{128, 256, 512, 1024, 3072\} |
 
 ---
@@ -50,3 +50,11 @@ This repository contains the implementation of a **Differential Evolution (DE)**
 ### Prerequisites
 - Python 3.10+
 - Required libraries: `numpy`, `torch`, `transformers`, `matplotlib`, `torchvision`, `einops`, `Pillow`, `tqdm`, `accelerate`, `torchinfo`, `datasets`, `scikit-learn`
+
+---
+
+DE-NAS-ViT-Tomato-Leaf-Diseases-Detection/
+├── data/                     # Dataset folder
+├── models.ipynb/             # Main code
+├── results/                  # Results imgaes
+├── README.md
