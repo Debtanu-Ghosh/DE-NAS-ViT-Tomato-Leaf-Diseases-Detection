@@ -57,5 +57,4 @@ DE-NAS-ViT-Tomato-Leaf-Diseases-Detection/
 
       ├── tomato/New Plant Diseases Dataset(Augmented)/                     # Dataset folder
       ├── models.ipynb/                                                     # Main code
-      ├── results/                                                          # Results imgaes
       ├── README.md
