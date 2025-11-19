@@ -2,7 +2,7 @@
 
 This repository contains the implementation of a **Differential Evolution (DE)**-based Neural Architecture Search (NAS) framework for optimizing Vision Transformer (ViT) architectures. The proposed approach efficiently explores the hyperparameter search space to discover optimal configurations for ViTs, leveraging the power of DE to balance exploration and exploitation.
 
-      Paper link: https://doi.org/10.1016/j.compag.2025.110824
+Paper link: https://doi.org/10.1016/j.compag.2025.110824 
 
 ---
 
